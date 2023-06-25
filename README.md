@@ -1,4 +1,4 @@
 # CR24 Packs
-Repository for all of my Minecraft Resource Packs!
+Repository for all my Minecraft Packs!
 
-This site is currently in Development!
+This site is currently in Development..
