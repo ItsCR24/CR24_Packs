@@ -264,7 +264,7 @@ h4 {
 .pack_header_content {
   position: absolute;
   display: flex;
-  top: 135px;
+  top: 130px;
   left: 25px;
   z-index: 1;
 }
