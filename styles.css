@@ -231,8 +231,6 @@ h4 {
 }
 
 
-
-
 /* PACK DETAILS PAGE CSS */
 
 .pack_header {
@@ -267,7 +265,7 @@ h4 {
   position: absolute;
   display: flex;
   top: 135px;
-  left: 40px;
+  left: 10px;
   z-index: 1;
 }
 
