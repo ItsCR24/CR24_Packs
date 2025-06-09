@@ -1,4 +1,4 @@
 # CR24 Packs
 Repository for all my Minecraft Packs!
 
-This site is currently in Development..
+### https://blurrycmd.github.io/CR24_Packs/
