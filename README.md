@@ -2,4 +2,4 @@
 
 This repository contains packs my packs for Minecraft.
 
-## https://blurrycmd.github.io/cr24-packs/
+### https://blurrycmd.github.io/CR24_Packs
